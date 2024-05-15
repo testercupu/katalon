@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Padang, IndonesiaPDG - Minangkabau Intl</name>
+   <tag></tag>
+   <elementGuidId>9a4160bd-979b-4a46-af0b-41d640edd321</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[5]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div/div[3]/div[2]/div/div/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b92c227b-0e4e-471f-bf6b-e284e7f959ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-13awgt0</value>
+      <webElementGuid>543fd4a1-ab76-4e14-8f42-4fcb9a71e30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Padang, IndonesiaPDG - Minangkabau Intl</value>
+      <webElementGuid>e98e1c05-6d36-41e1-a600-39dea607ef7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-axzv8h r-1s3egr7&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-rs99b7 r-1yos0t3 r-1xfddsp r-bztko3 r-uwe93p r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1xfddsp&quot;]/div[@class=&quot;css-1dbjc4n r-u6sd8q r-4gszlv r-1f0042m r-13awgt0 r-1xfddsp r-1ygmrgt r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-1q9bdsx r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1pn2ns4&quot;]/div[@class=&quot;css-1dbjc4n r-zo7nv5 r-6413gk r-ogt5cd r-kzbkwu r-1i6dfp5 r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-kzbkwu&quot;]/div[@class=&quot;css-1dbjc4n r-19mqnvc r-17x6qj0&quot;]/div[@class=&quot;css-1dbjc4n r-1l31rp8 r-z2wwpe r-rs99b7 r-1d2f490 r-1ms6dn0 r-1pq6peu r-1udh08x r-u8s1d r-1r2pcjo&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-391gc0 r-qklmqi r-1loqt21 r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1w6e6rj&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-13awgt0 r-18u37iz r-1w6e6rj r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]</value>
+      <webElementGuid>131f887d-fbe4-43c6-90e0-82d18699fade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[5]/div/div[2]/div[3]/div/div/div[2]/div/div/div/div/div[3]/div[2]/div/div/div[4]/div/div/div/div</value>
+      <webElementGuid>ca514d97-4d19-4f38-853c-7d9041f696ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='g'])[1]/following::div[5]</value>
+      <webElementGuid>dbd55aca-7a48-4bcc-b1f9-9ceac849d054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Padan'])[1]/following::div[5]</value>
+      <webElementGuid>0957da3c-6cb6-43d2-b42b-f1c3a1bd68f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/div/div/div/div</value>
+      <webElementGuid>3463c1f6-a1be-41ad-84ee-d5428ce0724f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Padang, IndonesiaPDG - Minangkabau Intl' or . = 'Padang, IndonesiaPDG - Minangkabau Intl')]</value>
+      <webElementGuid>0f2b8faf-96fc-4dc4-b8a3-eae069d6dc08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
