@@ -6,8 +6,8 @@
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>c1d09d4e-4294-495d-8817-20a38da96629</dataFileGUID>
-   <dataSourceUrl>D:\Testing\Katalon Studio\Day-1\dataLogin.xlsx</dataSourceUrl>
+   <dataFileGUID>60ccde7e-de47-422a-a6fe-a70965783525</dataFileGUID>
+   <dataSourceUrl>D:\Testing\Katalon Studio\Training Automation Katalon MII\dataLogin.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
