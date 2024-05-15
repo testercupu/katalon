@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Day1/manua-scriptlMode/Page_OrangeHRM/narasi_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Day1/manua-scriptlMode/Page_OrangeHRM/input_Username_username'), variable)
+WebUI.setText(findTestObject('Object Repository/Day1/manua-scriptlMode/Page_OrangeHRM/input_Username_username'), 'Admin')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Day1/manua-scriptlMode/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
@@ -34,6 +34,4 @@ WebUI.delay(2)
 WebUI.verifyElementVisible(findTestObject('Object Repository/Day1/manua-scriptlMode/Page_OrangeHRM/narasi_Dashboard'))
 
 WebUI.closeBrowser()
-
-def nama = GlobalVariable.Namaaa
 
