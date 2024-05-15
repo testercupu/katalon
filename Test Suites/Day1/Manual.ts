@@ -16,12 +16,27 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Day1/ManualModeDemo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f7769649-4a4c-4595-aec5-736f2042a725</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/dataLogin</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>dde115d4-c0c6-4fff-bcbd-f60eb532719a</variableId>
+         <testDataLinkId>f7769649-4a4c-4595-aec5-736f2042a725</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>e1d5dc32-9d23-4a6d-abfd-d6ccc3038c6a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f7769649-4a4c-4595-aec5-736f2042a725</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>dfad0d2e-f608-43b7-92c9-6dc50a0cac01</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
